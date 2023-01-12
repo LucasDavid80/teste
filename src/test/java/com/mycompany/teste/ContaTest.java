@@ -78,6 +78,4 @@ public class ContaTest {
         assertEquals("98765432-1", cp.getNumeroConta());
     }
     
-    
-    
 }
